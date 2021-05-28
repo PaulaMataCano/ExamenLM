@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+}
+
+.Emisor {
+    text-align: center;
+    color: green;
+    border-style: solid;
+    margin-right: 1000px;
+    border-radius: 25px;
+    background-color: #CEF6CE;
+}
+
+.Receptor {
+    text-align: center;
+    color: red;
+    border-style: solid;
+    margin-left: 1000px;
+    border-radius: 25px;
+    background-color: #F5A9A9;
+}

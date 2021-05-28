@@ -1,0 +1,8 @@
+Pepe: Hola
+Julio: ¿Qué tal?
+Pepe: Muy bien
+Pepe: ¿Y tú?
+Julio: Muy bien
+Julio: Llegando a Alicante
+Pepe: Nos vemos pronto
+Julio: Un abrazo

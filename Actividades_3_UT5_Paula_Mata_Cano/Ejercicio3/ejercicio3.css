@@ -1,0 +1,38 @@
+    body {
+        background-color: rgb(172, 169, 169);
+    }
+    
+    .formulario {
+        margin-top: 175px;
+        margin-left: 450px;
+        margin-right: 450px;
+        border-radius: 10px;
+        border-style: solid;
+        border-width: 3px;
+        border-color: #81F7F3;
+        background: linear-gradient(30deg, #A9F5F2, #FAFAFA);
+    }
+    
+    h1 {
+        color: orange;
+        font-size: 25px;
+    }
+    
+    #enviar {
+        background-color: orange;
+        color: white;
+        border-color: white;
+        font-size: 15px;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    
+    input:valid {
+        border-color: grey;
+        background-color: #E6E6E6;
+    }
+    
+    input:invalid {
+        border-color: #FE2E2E;
+        background-color: #F5A9A9;
+    }
